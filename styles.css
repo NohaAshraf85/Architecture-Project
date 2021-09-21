@@ -33,7 +33,21 @@ body, html {
     padding: 0%; */
 }
 
+/* Navbar */
 nav {
-  background-color: rgba(0, 0, 0, 0.123);
+  background-color: rgba(0, 0, 0, 0.466);
 }
 
+.navbar-brand{
+  color: white;
+}
+
+.nav-link {
+  color: white;
+}
+
+/* Carousel */
+.carousel-img {
+  height: 650px;
+
+}
