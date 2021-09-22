@@ -46,6 +46,10 @@ nav {
   color: white;
 }
 
+.navbar-dark .navbar-toggler {
+  color: white;
+}
+
 /* Carousel */
 .carousel-img {
   height: 650px;
