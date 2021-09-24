@@ -72,6 +72,14 @@ nav {
 
 /* Projects Section */
 
-.project-image {
-  height: 190px;
+.card{
+  overflow: hidden;
+}
+
+.card .card-img-top{
+  transition: all 1.5s ease;
+}
+
+.card:hover img{
+  transform: scale(1.2);
 }
