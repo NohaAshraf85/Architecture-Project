@@ -69,3 +69,9 @@ nav {
     background-size: cover;
     margin-bottom: 20px;
 }
+
+/* Projects Section */
+
+.project-image {
+  height: 190px;
+}
